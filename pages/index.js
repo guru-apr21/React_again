@@ -13,11 +13,9 @@ export default function Home() {
 
       <Navbar />
       <main className={styles.main}>
-        <h1 className={styles.title}>Hi, my name is Guru Balamurugan </h1>
-        <h1 className={styles.title}>I am a Full Stack AI Developer</h1>
+        <h1 className={styles.title}>Guru Balamurugan </h1>
+        <h1 className={styles.title}>Full Stack AI Developer</h1>
       </main>
-
-      <footer className={styles.footer}></footer>
     </div>
   );
 }
